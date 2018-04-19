@@ -1,0 +1,26 @@
+﻿{
+
+  "name": "CustomNode",
+  "description": "CustomNode Test",
+  "site_url": "",
+  "repository_url": "",
+
+  "version": "0.0.0",
+  "license": "",
+  "group": "",
+  "contents": "",
+
+  "keywords": [],
+
+  "engine": "dynamo",
+  "engine_version": "2.0.0",
+  "engine_metadata": "",
+
+  "contains_binaries": true,
+  "node_libraries": [
+    "CustomNode, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "dependencies": [],
+  "file_hash": null
+
+}
